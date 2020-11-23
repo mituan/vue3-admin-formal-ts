@@ -21,7 +21,6 @@
             <div class="text-center">
                 <a class="color-white">忘记密码</a>|
                 <a class="color-white">注册</a>
-                {{aa}}
             </div>
         </div>
     </div>
